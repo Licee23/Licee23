@@ -7,9 +7,6 @@
   <a href =""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   </div>
 
-  
-#
-
 
 <div align="center">
   <a href="[https://github.com/licee23]">
