@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/alice-rodrigues-alves-263811252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href =""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   </div>
+
+  
 #
 
 
@@ -14,8 +16,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=licee23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licee23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  
 
 ## Tecnologias usadas! 
 
@@ -26,6 +26,3 @@
     <img aligh="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="js">
     <img aligh="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="js">
 </div>
-  
-   
-
